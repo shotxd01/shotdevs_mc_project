@@ -14,12 +14,12 @@
       "id": 1,
       "name": "Default Bot",
       "server": {
-        "ip": "localhost",
-        "port": 25565,
+        "ip": "donutsmp.net",
+        "port": "25565",
         "version": "1.20.4"
       },
       "account": {
-        "email": "",
+        "email": "shotxd506@gmail.com",
         "type": "microsoft",
         "verified": false,
         "authCache": null
@@ -41,6 +41,22 @@
         "authCache": null
       },
       "created": 1768636205717
+    },
+    {
+      "id": 3,
+      "name": "Test",
+      "server": {
+        "ip": "donutsmp.net",
+        "port": 25565,
+        "version": "1.20.4"
+      },
+      "account": {
+        "email": "shot@shotdevs.live",
+        "type": "microsoft",
+        "verified": false,
+        "authCache": null
+      },
+      "created": 1768637018912
     }
   ]
 }
