@@ -5,19 +5,42 @@
       "password": "$2b$10$.USE.ZwiOv7UZT3hIvrJC.MP/vJBW4ZmyhaXPksKweALPAzhCm0Oq"
     }
   ],
-  "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.20.4"
-  },
-  "minecraftAccount": {
-    "email": "",
-    "type": "microsoft",
-    "verified": false,
-    "authCache": null
-  },
   "settings": {
     "darkMode": true,
     "autoReconnect": true
-  }
+  },
+  "bots": [
+    {
+      "id": 1,
+      "name": "Default Bot",
+      "server": {
+        "ip": "localhost",
+        "port": 25565,
+        "version": "1.20.4"
+      },
+      "account": {
+        "email": "",
+        "type": "microsoft",
+        "verified": false,
+        "authCache": null
+      },
+      "created": 1768635712962
+    },
+    {
+      "id": 2,
+      "name": "VerifyBot",
+      "server": {
+        "ip": "localhost",
+        "port": 25565,
+        "version": "1.20.4"
+      },
+      "account": {
+        "email": "verify@bot.com",
+        "type": "microsoft",
+        "verified": false,
+        "authCache": null
+      },
+      "created": 1768636205717
+    }
+  ]
 }
