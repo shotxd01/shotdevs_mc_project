@@ -1,0 +1,23 @@
+{
+  "admins": [
+    {
+      "username": "root",
+      "password": "$2b$10$.USE.ZwiOv7UZT3hIvrJC.MP/vJBW4ZmyhaXPksKweALPAzhCm0Oq"
+    }
+  ],
+  "server": {
+    "ip": "localhost",
+    "port": 25565,
+    "version": "1.20.4"
+  },
+  "minecraftAccount": {
+    "email": "",
+    "type": "microsoft",
+    "verified": false,
+    "authCache": null
+  },
+  "settings": {
+    "darkMode": true,
+    "autoReconnect": true
+  }
+}
