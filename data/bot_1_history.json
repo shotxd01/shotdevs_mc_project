@@ -1,0 +1,142 @@
+[
+  {
+    "timestamp": "2026-01-25T18:12:54.572Z",
+    "message": "[6:12:54 PM] Connecting to donutsmp.net:25565 as shotxd506@gmail.com...",
+    "type": "info"
+  },
+  {
+    "timestamp": "2026-01-25T18:13:03.185Z",
+    "message": "[6:13:03 PM] Logged in as shotxd",
+    "type": "info"
+  },
+  {
+    "timestamp": "2026-01-25T18:13:04.213Z",
+    "message": "[6:13:04 PM] [MSG] You teleported to the ᴀꜰᴋ 59",
+    "type": "chat"
+  },
+  {
+    "timestamp": "2026-01-25T18:13:04.344Z",
+    "message": "[6:13:04 PM] Bot spawned.",
+    "type": "info"
+  },
+  {
+    "timestamp": "2026-01-25T18:13:12.045Z",
+    "message": "[6:13:12 PM] > /shards",
+    "type": "output"
+  },
+  {
+    "timestamp": "2026-01-25T18:13:12.320Z",
+    "message": "[6:13:12 PM] [MSG] Your shards: 11.93K",
+    "type": "chat"
+  },
+  {
+    "timestamp": "2026-01-25T18:13:12.323Z",
+    "message": "[6:13:12 PM] [shards] 11.93K",
+    "type": "chat"
+  },
+  {
+    "timestamp": "2026-01-25T18:14:03.191Z",
+    "message": "[6:14:03 PM] Uptime: 1m 0s",
+    "type": "info"
+  },
+  {
+    "timestamp": "2026-01-25T18:15:03.189Z",
+    "message": "[6:15:03 PM] Uptime: 2m 0s",
+    "type": "info"
+  },
+  {
+    "timestamp": "2026-01-25T18:16:03.190Z",
+    "message": "[6:16:03 PM] Uptime: 3m 0s",
+    "type": "info"
+  },
+  {
+    "timestamp": "2026-01-25T18:17:03.190Z",
+    "message": "[6:17:03 PM] Uptime: 4m 0s",
+    "type": "info"
+  },
+  {
+    "timestamp": "2026-01-25T18:18:03.189Z",
+    "message": "[6:18:03 PM] Uptime: 5m 0s",
+    "type": "info"
+  },
+  {
+    "timestamp": "2026-01-25T18:19:03.190Z",
+    "message": "[6:19:03 PM] Uptime: 6m 0s",
+    "type": "info"
+  },
+  {
+    "timestamp": "2026-01-25T18:19:47.481Z",
+    "message": "[6:19:47 PM] Connecting to donutsmp.net:25565 as shotxd506@gmail.com...",
+    "type": "info"
+  },
+  {
+    "timestamp": "2026-01-25T18:19:54.965Z",
+    "message": "[6:19:54 PM] Logged in as shotxd",
+    "type": "info"
+  },
+  {
+    "timestamp": "2026-01-25T18:19:56.586Z",
+    "message": "[6:19:56 PM] [MSG] You teleported to the ᴀꜰᴋ 62",
+    "type": "chat"
+  },
+  {
+    "timestamp": "2026-01-25T18:19:56.761Z",
+    "message": "[6:19:56 PM] Bot spawned.",
+    "type": "info"
+  },
+  {
+    "timestamp": "2026-01-25T18:20:08.086Z",
+    "message": "[6:20:08 PM] Starting AFK mode...",
+    "type": "info"
+  },
+  {
+    "timestamp": "2026-01-25T18:20:16.621Z",
+    "message": "[6:20:16 PM] AFK mode stopped.",
+    "type": "info"
+  },
+  {
+    "timestamp": "2026-01-25T18:20:17.127Z",
+    "message": "[6:20:17 PM] Starting AFK mode...",
+    "type": "info"
+  },
+  {
+    "timestamp": "2026-01-25T18:20:18.125Z",
+    "message": "[6:20:18 PM] AFK mode stopped.",
+    "type": "info"
+  },
+  {
+    "timestamp": "2026-01-25T18:20:19.293Z",
+    "message": "[6:20:19 PM] Starting AFK mode...",
+    "type": "info"
+  },
+  {
+    "timestamp": "2026-01-25T18:20:20.040Z",
+    "message": "[6:20:20 PM] AFK mode stopped.",
+    "type": "info"
+  },
+  {
+    "timestamp": "2026-01-25T18:20:22.094Z",
+    "message": "[6:20:22 PM] Starting AFK mode...",
+    "type": "info"
+  },
+  {
+    "timestamp": "2026-01-25T18:20:22.572Z",
+    "message": "[6:20:22 PM] AFK mode stopped.",
+    "type": "info"
+  },
+  {
+    "timestamp": "2026-01-25T18:20:23.575Z",
+    "message": "[6:20:23 PM] Starting AFK mode...",
+    "type": "info"
+  },
+  {
+    "timestamp": "2026-01-25T18:20:24.628Z",
+    "message": "[6:20:24 PM] AFK mode stopped.",
+    "type": "info"
+  },
+  {
+    "timestamp": "2026-01-25T18:20:54.990Z",
+    "message": "[6:20:54 PM] Uptime: 1m 0s",
+    "type": "info"
+  }
+]

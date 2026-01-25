@@ -12,10 +12,10 @@
   "bots": [
     {
       "id": 1,
-      "name": "Default Bot",
+      "name": "shotxd",
       "server": {
         "ip": "donutsmp.net",
-        "port": "25565",
+        "port": 25565,
         "version": "1.20.4"
       },
       "account": {
@@ -24,39 +24,7 @@
         "verified": false,
         "authCache": null
       },
-      "created": 1768635712962
-    },
-    {
-      "id": 2,
-      "name": "VerifyBot",
-      "server": {
-        "ip": "localhost",
-        "port": 25565,
-        "version": "1.20.4"
-      },
-      "account": {
-        "email": "verify@bot.com",
-        "type": "microsoft",
-        "verified": false,
-        "authCache": null
-      },
-      "created": 1768636205717
-    },
-    {
-      "id": 3,
-      "name": "Test",
-      "server": {
-        "ip": "donutsmp.net",
-        "port": 25565,
-        "version": "1.20.4"
-      },
-      "account": {
-        "email": "shot@shotdevs.live",
-        "type": "microsoft",
-        "verified": false,
-        "authCache": null
-      },
-      "created": 1768637018912
+      "created": 1769364769611
     }
   ]
 }
