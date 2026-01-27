@@ -1,137 +1,22 @@
 [
   {
-    "timestamp": "2026-01-26T18:40:09.409Z",
-    "message": "[6:40:09 PM] > /shards",
-    "type": "output"
-  },
-  {
-    "timestamp": "2026-01-26T18:40:09.660Z",
-    "message": "[6:40:09 PM] [MSG] Your shards: 13.39K",
-    "type": "chat"
-  },
-  {
-    "timestamp": "2026-01-26T18:40:09.660Z",
-    "message": "[6:40:09 PM] [shards] 13.39K",
-    "type": "chat"
-  },
-  {
-    "timestamp": "2026-01-26T18:40:28.454Z",
-    "message": "[6:40:28 PM] Uptime: 1d 0h 15m",
+    "timestamp": "2026-01-27T17:59:45.110Z",
+    "message": "[5:59:45 PM] Connecting to donutsmp.net:25565 as shotxd506@gmail.com...",
     "type": "info"
   },
   {
-    "timestamp": "2026-01-26T18:41:28.454Z",
-    "message": "[6:41:28 PM] Uptime: 1d 0h 16m",
-    "type": "info"
+    "timestamp": "2026-01-27T17:59:52.893Z",
+    "message": "[5:59:52 PM] Bot error: read ECONNRESET",
+    "type": "error"
   },
   {
-    "timestamp": "2026-01-26T18:42:28.453Z",
-    "message": "[6:42:28 PM] Uptime: 1d 0h 17m",
-    "type": "info"
+    "timestamp": "2026-01-27T17:59:52.896Z",
+    "message": "[5:59:52 PM] Bot disconnected: socketClosed",
+    "type": "warning"
   },
   {
-    "timestamp": "2026-01-26T18:43:28.453Z",
-    "message": "[6:43:28 PM] Uptime: 1d 0h 18m",
-    "type": "info"
-  },
-  {
-    "timestamp": "2026-01-26T18:44:28.455Z",
-    "message": "[6:44:28 PM] Uptime: 1d 0h 19m",
-    "type": "info"
-  },
-  {
-    "timestamp": "2026-01-26T18:45:28.453Z",
-    "message": "[6:45:28 PM] Uptime: 1d 0h 20m",
-    "type": "info"
-  },
-  {
-    "timestamp": "2026-01-26T18:46:28.463Z",
-    "message": "[6:46:28 PM] Uptime: 1d 0h 21m",
-    "type": "info"
-  },
-  {
-    "timestamp": "2026-01-26T18:47:28.562Z",
-    "message": "[6:47:28 PM] Uptime: 1d 0h 22m",
-    "type": "info"
-  },
-  {
-    "timestamp": "2026-01-26T18:48:28.584Z",
-    "message": "[6:48:28 PM] Uptime: 1d 0h 23m",
-    "type": "info"
-  },
-  {
-    "timestamp": "2026-01-26T18:49:28.586Z",
-    "message": "[6:49:28 PM] Uptime: 1d 0h 24m",
-    "type": "info"
-  },
-  {
-    "timestamp": "2026-01-26T18:50:28.585Z",
-    "message": "[6:50:28 PM] Uptime: 1d 0h 25m",
-    "type": "info"
-  },
-  {
-    "timestamp": "2026-01-26T18:51:28.586Z",
-    "message": "[6:51:28 PM] Uptime: 1d 0h 26m",
-    "type": "info"
-  },
-  {
-    "timestamp": "2026-01-26T18:52:28.586Z",
-    "message": "[6:52:28 PM] Uptime: 1d 0h 27m",
-    "type": "info"
-  },
-  {
-    "timestamp": "2026-01-26T18:53:28.585Z",
-    "message": "[6:53:28 PM] Uptime: 1d 0h 28m",
-    "type": "info"
-  },
-  {
-    "timestamp": "2026-01-26T18:53:38.716Z",
-    "message": "[6:53:38 PM] [MSG] ",
-    "type": "chat"
-  },
-  {
-    "timestamp": "2026-01-26T18:53:38.719Z",
-    "message": "[6:53:38 PM] [MSG] ʏᴏᴜ ᴊᴜѕᴛ ɢᴏᴛ 1 ᴄᴏᴍᴍᴏɴ ᴋᴇʏ",
-    "type": "chat"
-  },
-  {
-    "timestamp": "2026-01-26T18:53:38.720Z",
-    "message": "[6:53:38 PM] [MSG] [CLICK TO TELEPORT] or type /warp crates to open it",
-    "type": "chat"
-  },
-  {
-    "timestamp": "2026-01-26T18:53:38.722Z",
-    "message": "[6:53:38 PM] [MSG] ",
-    "type": "chat"
-  },
-  {
-    "timestamp": "2026-01-26T18:54:28.586Z",
-    "message": "[6:54:28 PM] Uptime: 1d 0h 29m",
-    "type": "info"
-  },
-  {
-    "timestamp": "2026-01-26T18:55:28.586Z",
-    "message": "[6:55:28 PM] Uptime: 1d 0h 30m",
-    "type": "info"
-  },
-  {
-    "timestamp": "2026-01-26T18:56:28.586Z",
-    "message": "[6:56:28 PM] Uptime: 1d 0h 31m",
-    "type": "info"
-  },
-  {
-    "timestamp": "2026-01-26T18:57:28.587Z",
-    "message": "[6:57:28 PM] Uptime: 1d 0h 32m",
-    "type": "info"
-  },
-  {
-    "timestamp": "2026-01-26T18:58:28.590Z",
-    "message": "[6:58:28 PM] Uptime: 1d 0h 33m",
-    "type": "info"
-  },
-  {
-    "timestamp": "2026-01-26T18:59:28.599Z",
-    "message": "[6:59:28 PM] Uptime: 1d 0h 34m",
+    "timestamp": "2026-01-27T17:59:52.897Z",
+    "message": "[5:59:52 PM] AFK mode stopped.",
     "type": "info"
   }
 ]
