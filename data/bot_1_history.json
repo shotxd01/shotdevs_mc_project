@@ -73,5 +73,65 @@
     "timestamp": "2026-01-26T18:51:28.586Z",
     "message": "[6:51:28 PM] Uptime: 1d 0h 26m",
     "type": "info"
+  },
+  {
+    "timestamp": "2026-01-26T18:52:28.586Z",
+    "message": "[6:52:28 PM] Uptime: 1d 0h 27m",
+    "type": "info"
+  },
+  {
+    "timestamp": "2026-01-26T18:53:28.585Z",
+    "message": "[6:53:28 PM] Uptime: 1d 0h 28m",
+    "type": "info"
+  },
+  {
+    "timestamp": "2026-01-26T18:53:38.716Z",
+    "message": "[6:53:38 PM] [MSG] ",
+    "type": "chat"
+  },
+  {
+    "timestamp": "2026-01-26T18:53:38.719Z",
+    "message": "[6:53:38 PM] [MSG] ʏᴏᴜ ᴊᴜѕᴛ ɢᴏᴛ 1 ᴄᴏᴍᴍᴏɴ ᴋᴇʏ",
+    "type": "chat"
+  },
+  {
+    "timestamp": "2026-01-26T18:53:38.720Z",
+    "message": "[6:53:38 PM] [MSG] [CLICK TO TELEPORT] or type /warp crates to open it",
+    "type": "chat"
+  },
+  {
+    "timestamp": "2026-01-26T18:53:38.722Z",
+    "message": "[6:53:38 PM] [MSG] ",
+    "type": "chat"
+  },
+  {
+    "timestamp": "2026-01-26T18:54:28.586Z",
+    "message": "[6:54:28 PM] Uptime: 1d 0h 29m",
+    "type": "info"
+  },
+  {
+    "timestamp": "2026-01-26T18:55:28.586Z",
+    "message": "[6:55:28 PM] Uptime: 1d 0h 30m",
+    "type": "info"
+  },
+  {
+    "timestamp": "2026-01-26T18:56:28.586Z",
+    "message": "[6:56:28 PM] Uptime: 1d 0h 31m",
+    "type": "info"
+  },
+  {
+    "timestamp": "2026-01-26T18:57:28.587Z",
+    "message": "[6:57:28 PM] Uptime: 1d 0h 32m",
+    "type": "info"
+  },
+  {
+    "timestamp": "2026-01-26T18:58:28.590Z",
+    "message": "[6:58:28 PM] Uptime: 1d 0h 33m",
+    "type": "info"
+  },
+  {
+    "timestamp": "2026-01-26T18:59:28.599Z",
+    "message": "[6:59:28 PM] Uptime: 1d 0h 34m",
+    "type": "info"
   }
 ]
