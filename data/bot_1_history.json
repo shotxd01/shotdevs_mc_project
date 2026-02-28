@@ -1,92 +1,82 @@
 [
   {
-    "timestamp": "2026-02-08T04:48:53.194Z",
-    "message": "[4:48:53 AM] Connecting to donutsmp.net:25565 as shotxd506@gmail.com...",
+    "timestamp": "2026-02-22T11:24:08.933Z",
+    "message": "[11:24:08 AM] Connecting to donutsmp.net:25565 as shotxd506@gmail.com...",
     "type": "info"
   },
   {
-    "timestamp": "2026-02-08T04:48:55.603Z",
-    "message": "[4:48:55 AM] Microsoft Auth Code: 3D7CQKJZ",
-    "type": "action"
-  },
-  {
-    "timestamp": "2026-02-08T04:48:55.604Z",
-    "message": "[4:48:55 AM] Please visit https://www.microsoft.com/link",
-    "type": "action"
-  },
-  {
-    "timestamp": "2026-02-08T04:49:30.395Z",
-    "message": "[4:49:30 AM] Logged in as shotxd",
+    "timestamp": "2026-02-22T11:24:22.522Z",
+    "message": "[11:24:22 AM] Logged in as shotxd",
     "type": "info"
   },
   {
-    "timestamp": "2026-02-08T04:49:31.354Z",
-    "message": "[4:49:31 AM] [MSG] You teleported to the ᴀꜰᴋ 56",
-    "type": "chat"
-  },
-  {
-    "timestamp": "2026-02-08T04:49:31.446Z",
-    "message": "[4:49:31 AM] Bot spawned.",
+    "timestamp": "2026-02-22T11:24:23.154Z",
+    "message": "[11:24:23 AM] Bot spawned.",
     "type": "info"
   },
   {
-    "timestamp": "2026-02-08T04:49:45.878Z",
-    "message": "[4:49:45 AM] > /afk",
+    "timestamp": "2026-02-22T11:24:44.854Z",
+    "message": "[11:24:44 AM] > /afk 2",
     "type": "output"
   },
   {
-    "timestamp": "2026-02-08T04:49:57.034Z",
-    "message": "[4:49:57 AM] > /shards",
+    "timestamp": "2026-02-22T11:24:44.994Z",
+    "message": "[11:24:44 AM] [MSG] Unfortunately this region is full, please try again later.",
+    "type": "chat"
+  },
+  {
+    "timestamp": "2026-02-22T11:24:50.827Z",
+    "message": "[11:24:50 AM] > /afk 76",
     "type": "output"
   },
   {
-    "timestamp": "2026-02-08T04:49:57.280Z",
-    "message": "[4:49:57 AM] [MSG] Your shards: 1.29K",
+    "timestamp": "2026-02-22T11:24:50.948Z",
+    "message": "[11:24:50 AM] [MSG] Unfortunately this region is full, please try again later.",
     "type": "chat"
   },
   {
-    "timestamp": "2026-02-08T04:49:57.285Z",
-    "message": "[4:49:57 AM] [shards] 1.29K",
+    "timestamp": "2026-02-22T11:24:55.947Z",
+    "message": "[11:24:55 AM] > /afk 4",
+    "type": "output"
+  },
+  {
+    "timestamp": "2026-02-22T11:24:56.149Z",
+    "message": "[11:24:56 AM] [MSG] Unfortunately this region is full, please try again later.",
     "type": "chat"
   },
   {
-    "timestamp": "2026-02-08T04:50:30.396Z",
-    "message": "[4:50:30 AM] Uptime: 1m 0s",
+    "timestamp": "2026-02-22T11:25:22.530Z",
+    "message": "[11:25:22 AM] Uptime: 1m 0s",
     "type": "info"
   },
   {
-    "timestamp": "2026-02-08T04:51:30.397Z",
-    "message": "[4:51:30 AM] Uptime: 2m 0s",
+    "timestamp": "2026-02-22T11:26:22.526Z",
+    "message": "[11:26:22 AM] Uptime: 2m 0s",
     "type": "info"
   },
   {
-    "timestamp": "2026-02-08T04:52:30.396Z",
-    "message": "[4:52:30 AM] Uptime: 3m 0s",
+    "timestamp": "2026-02-22T11:26:30.427Z",
+    "message": "[11:26:30 AM] Stopping bot...",
     "type": "info"
   },
   {
-    "timestamp": "2026-02-08T04:53:11.725Z",
-    "message": "[4:53:11 AM] Stopping bot...",
+    "timestamp": "2026-02-22T11:26:30.433Z",
+    "message": "[11:26:30 AM] AFK mode stopped.",
     "type": "info"
   },
   {
-    "timestamp": "2026-02-08T04:53:11.726Z",
-    "message": "[4:53:11 AM] AFK mode stopped.",
+    "timestamp": "2026-02-22T11:26:30.444Z",
+    "message": "[11:26:30 AM] Bot stopped.",
     "type": "info"
   },
   {
-    "timestamp": "2026-02-08T04:53:11.728Z",
-    "message": "[4:53:11 AM] Bot stopped.",
-    "type": "info"
-  },
-  {
-    "timestamp": "2026-02-08T04:53:11.820Z",
-    "message": "[4:53:11 AM] Bot disconnected: disconnect.quitting",
+    "timestamp": "2026-02-22T11:26:30.570Z",
+    "message": "[11:26:30 AM] Bot disconnected: disconnect.quitting",
     "type": "warning"
   },
   {
-    "timestamp": "2026-02-08T04:53:11.821Z",
-    "message": "[4:53:11 AM] AFK mode stopped.",
+    "timestamp": "2026-02-22T11:26:30.572Z",
+    "message": "[11:26:30 AM] AFK mode stopped.",
     "type": "info"
   }
 ]
